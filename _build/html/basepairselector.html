@@ -167,7 +167,12 @@
             
   <section class="tex2jax_ignore mathjax_ignore" id="base-pair-selector">
 <h1>Base-pair selector<a class="headerlink" href="#base-pair-selector" title="Permalink to this headline">¶</a></h1>
-<p>Some <strong>text</strong>!</p>
+<p>Chromosome Base Pair Selector receives a user input of a string of base pair segments (format example: "chr7:12345678-20000000;chr7:87654321-90000000") 
+  and a radius, then creates highlight meshes for those segments and selects a spherical region around each segment. Each time Base Pair Selector is used, 
+  as session is stored in BPS Search, where the user can reload sessions or download the structure data and epidata encompassed in a session. Note: Only 
+  segments within the current chromosome and current view region will be highlighted by Base Pair Selector; segments outside the current chromosome or 
+  view region will be omitted.
+</p>
 <iframe
     width="640"
     height="480"
@@ -177,6 +182,21 @@
     allowfullscreen
 >
 </iframe>
+<p>Genome Base Pair Selector works the same as Chromosome Base Pair Selector, except it is used in genome view, and it supports an input string that 
+  contains segments from multiple chromosomes. Genome Base Pair Selector sessions are stored in the GenBPSHist tab on the console; the user can reload 
+  and/or download data from sessions stored there. Note: Only segments that are within view regions that have been Saved to Genome will be highlighted by 
+  Genome Base Pair Selector; segments outside Saved view regions will be omitted.
+</p>
+
+<!-- @Deepak, please insert the GenBPS video link here -->
+<iframe
+    width="640"
+    height="480"
+    src=""
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
 </section>
 
 
