@@ -12,16 +12,16 @@ Welcome to gemini-nucleome-explorer's documentation!
 
    
    introduction.md
-   gallery.md
-   chromosome.md
-   castor-pollux.md
-   live-session.md
+   console.md
    refGene.md
    radvol.md
-   preserveConform.md
-   console.md
    bigwighic.md
    basepairselector.md
+   preserveConform.md
+   chromosome.md
+   castor-pollux.md
+   gallery.md
+   live-session.md
    abstract.md
 
 
