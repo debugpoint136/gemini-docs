@@ -1,7 +1,5 @@
 # Castor and Pollux
 
-Some **text**!
-
 <iframe
     width="640"
     height="480"

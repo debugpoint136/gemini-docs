@@ -1,6 +1,4 @@
-# Base-pair selector
-
-Some **text**!
+# Base pair selector
 
 <iframe
     width="640"

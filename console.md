@@ -1,6 +1,6 @@
 # General Console
 
-Some **text**!
+The general console displays information about selected features and allows the user to add and remove annotations.
 
 <iframe
     width="640"

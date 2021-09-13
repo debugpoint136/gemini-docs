@@ -1,7 +1,5 @@
 # bigWig and HiC track search
 
-Some **text**!
-
 <iframe
     width="640"
     height="480"
