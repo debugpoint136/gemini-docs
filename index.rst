@@ -23,6 +23,7 @@ Welcome to gemini-nucleome-explorer's documentation!
    bigwighic.md
    basepairselector.md
    abstract.md
+   revert-genome.md
 
 
 
