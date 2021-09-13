@@ -23,6 +23,7 @@ Welcome to gemini-nucleome-explorer's documentation!
    gallery.md
    live-session.md
    abstract.md
+   revert-genome.md
 
 
 
